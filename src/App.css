@@ -1,0 +1,8 @@
+.App {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.section {
+  @apply px-10 py-4 2xs:px-0;
+}
